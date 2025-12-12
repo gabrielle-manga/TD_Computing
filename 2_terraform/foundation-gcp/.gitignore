@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.crash.log
+
+# Secrets
+student.json
+student.b64
+
+# OS
+.DS_Store
